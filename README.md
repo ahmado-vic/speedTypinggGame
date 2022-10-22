@@ -1,12 +1,12 @@
-#Speed Typing Game
+# Speed Typing Game
 
-\*\*\_A Simple Game with a count down timer makes user test his/her ability of how many words he could write in a certin time.
+\*\* A Simple Game with a count down timer makes user test his/her ability of how many words he could write in a certin time.
 
-\*\*\_This Project developed by me from scratch from [Advanced React](https://scrimba.com/learn/react) for "Bob Ziroll"
+\*\* This Project developed by me from scratch from [Advanced React](https://scrimba.com/learn/react) for "Bob Ziroll"
 
 ## Build with [React](https://beta.reactjs.org/)
 
-\*\*\_https://speeed-typing-game.netlify.app/
+\*\* https://speeed-typing-game.netlify.app/
 
 - HTML 5
 - CSS 3
